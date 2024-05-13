@@ -32,3 +32,4 @@ class YaScooterOrderMainBtn:
     address = 'Енисейская улица'
     phone = '89276491653'
     comment = 'не звоните в домофон после 21:00, спят дети'
+

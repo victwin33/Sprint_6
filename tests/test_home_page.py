@@ -26,3 +26,4 @@ class TestHeaderLogo:
         home_page.wait_navigating_url(HomePageLocators.ZEN_HOME_PAGE)
         zen_home_page_url = Urls.ZEN_HOME_PAGE
         assert zen_home_page_url == home_page.get_current_url()
+

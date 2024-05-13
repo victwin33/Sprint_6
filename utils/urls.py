@@ -6,3 +6,4 @@ class Urls:
     YANDEX_HOME_PAGE = 'ya.ru'
     YANDEX_CAPTCHA_PAGE = 'yandex.ru'
 
+

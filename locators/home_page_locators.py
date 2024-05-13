@@ -11,3 +11,4 @@ class HomePageLocators:
     YANDEX_LOGO = By.XPATH, "//a[contains(@class, 'Header_LogoYandex')]"
     SAMOKAT_LOGO = By.XPATH, "//a[contains(@class, 'Header_LogoScooter')]"
     ZEN_HOME_PAGE = 'https://dzen.ru/?yredirect=true'
+

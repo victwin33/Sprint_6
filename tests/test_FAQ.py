@@ -17,3 +17,4 @@ class TestQuestionsHomePage:
         home_page.click_question(number)
         answer = home_page.get_answer(number)
         assert answer == expected_answer
+

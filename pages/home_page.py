@@ -37,3 +37,4 @@ class HomePage(BasePage):
     @allure.step("Возвращает URL текущей страницы")
     def get_current_page_url(self):
         return self.driver.current_url
+

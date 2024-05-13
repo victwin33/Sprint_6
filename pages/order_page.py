@@ -90,3 +90,4 @@ class OrderPage(BasePage):
         self.set_comments(comments)
         self.click_to_element(OrderPageLocators.ORDER_BTN)
         self.click_to_element(OrderPageLocators.YES_BTN)
+

@@ -28,3 +28,4 @@ pytest tests --alluredir=allure_results
 ``` shell
 allure serve allure_results
 ```
+ 

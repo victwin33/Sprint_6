@@ -46,3 +46,4 @@ class TestOrderPage:
                                 YaScooterOrderMainBtn.comment)
         text = order_page.check_success_order()
         assert 'Заказ оформлен' in text
+
